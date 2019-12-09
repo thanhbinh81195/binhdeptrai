@@ -24,7 +24,7 @@ int main(){
 				printf("phuong trinh co 2 nghiem x1 = %f; x2 = %f",x1,x2);
 			}else{
 				x1 = -b/(2*a);
-				printf("phuong trinh co 2 nghiem x1 = x2 = %f",x1);
+				printf("phuong trinh co nghiem kep x1 = x2 = %f",x1);
 			}	
 		}	
 	}	
