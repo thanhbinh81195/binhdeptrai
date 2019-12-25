@@ -11,7 +11,7 @@ double perimeter(double a,double b,double c){
 	double p=a+b+c;
 	return p;
 }
-double area(int a,int b,int c){
+double area(double a,double b,double c){
 	double p=(a+b+c)/2;
 	double s=sqrt(p*(p-a)*(p-b)*(p-c));
 	return s;
